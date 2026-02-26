@@ -1,6 +1,6 @@
 ![](https://github.com/DIVYA-SREE-K31/DIVYA-SREE-K31/blob/main/github-header-image.png)
 # Divyasree K
-###  Robotics Trainer | Aspiring Data Scientist | AI/ML Enthusiast
+###  Robotics & DSML Trainer | Data Scientist | AI/ML Enginer
 
 # 💫 About Me:
  🔭 I’m currently working on   **Robotics Trainer**<br><br>- 🌱 I’m currently learning    **Exploring Data Science & Machine Learning**<br><br>- 💬 Ask me about  **Data Science & AI/ML**<br><br>- 📫 How to reach me **divyadamodaran3105@gmail.com**<br><br>- ⚡ Fun fact **I am Funny**
