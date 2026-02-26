@@ -3,7 +3,7 @@
 ###  Robotics & DSML Trainer | Data Scientist | AI/ML Enginer
 
 # 💫 About Me:
- 🔭 I’m currently working on   **Robotics Trainer**<br><br>- 🌱 I’m currently learning    **Exploring Data Science & Machine Learning**<br><br>- 💬 Ask me about  **Data Science & AI/ML**<br><br>- 📫 How to reach me **divyadamodaran3105@gmail.com**<br><br>- ⚡ Fun fact **I am Funny**
+ 🔭 I’m currently working on   **Robotics & DSML Trainer Cum Engineer **<br><br>- 🌱 I’m currently learning    **Exploring Data Science & Machine Learning**<br><br>- 💬 Ask me about  **Data Science & AI/ML**<br><br>- 📫 How to reach me **divyadamodaran3105@gmail.com**<br><br>- ⚡ Fun fact **I am Funny**
 
 ## IDE
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/divya-sree-k31)
